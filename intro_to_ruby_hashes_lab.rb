@@ -12,7 +12,9 @@ def monopoly
 end
 
 def monopoly_with_second_tier
-	ff to it here!
+	monopoly = {:railroads => {
+	  
+	}}
 
 end
 
